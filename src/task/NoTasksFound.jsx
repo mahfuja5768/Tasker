@@ -4,4 +4,4 @@ export default function NoTasksFound() {
             No Tasks Found, Please Add task.
         </div>
     );
-};
+}
